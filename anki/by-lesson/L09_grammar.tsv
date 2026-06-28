@@ -1,0 +1,8 @@
+#separator:tab
+#html:false
+#columns:Pattern	Pinyin	Usage	ExampleZh	ExampleEn	Tags
+#tags column:6
+Verb 了 + quantity + 了	Verb le + quantity + le	have done something for quantity up to now; the first 了 indicates the quantity of the action, and the second 了 indicates the action continues to now (so far)	她已经看了三个小时的电视了。	She has been watching TV for three hours.	book::L09 L09::dialogue grammar
+S + quantity + 没有 + verb + 了	S + quantity + méiyǒu + verb + le	have NOT done something for quantity	她三天没有来上课了。	She has not come to class for three days.	book::L09 L09::dialogue grammar
+可怕 vs. 害怕	kěpà vs. hàipà	可怕 (awful; dreadful; scary; horrible) is an adjective only, more common in spoken Chinese; 害怕 is similar to 怕 as a verb, can be used alone or taken apart	这是一个可怕的故事。	This is a terrible story.	book::L09 L09::dialogue grammar
+Verb 来 Verb 去	Verb lái Verb qù	literally "back and forth" (e.g., 走来走去), but metaphorically means "over and over again"	我想来想去,还是决定不去朋友的生日会了。	I thought about it over and over again and decided not to go to my friend's birthday party.	book::L09 L09::dialogue grammar

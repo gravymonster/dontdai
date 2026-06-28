@@ -1,0 +1,14 @@
+#separator:tab
+#html:false
+#columns:Pattern	Pinyin	Usage	ExampleZh	ExampleEn	Tags
+#tags column:6
+有(一)点 + adj.	yǒu(yī)diǎn + adj.	a bit adj. (implies something negative); in speech 一 is often dropped, leaving 有点, pronounced 有点儿 in northern China	爸爸的普通话和妈妈的有一点不一样。	My father's Mandarin is a little different from my mother's.	book::L03 L03::dialogue grammar
+Verb + 得/不 + Verb	Verb + de/bù + Verb	can/cannot verb (potential complement); indicates whether or not an action is possible	我一句都听不懂。	I cannot understand even one sentence.	book::L03 L03::dialogue grammar
+互相 + verb	hùxiāng + verb	verb back and forth, a reciprocal action; the verb should be at least two syllables	两个说不同方言的人常常互相听不懂。	Two people who speak different dialects often can't understand each other.	book::L03 L03::dialogue grammar
+adj/stative verb + 得不得了	adj + de bùdéliǎo	extremely adj.; usually implies the situation is serious, but can also be positive (e.g. 高兴得不得了)	中国的方言多得不得了!	There are so many dialects in China!	book::L03 L03::dialogue grammar
+adj + 地 + verb	adj + de + verb	turns an adjective into an adverb, like the English suffix '-ly'; a one-syllable adjective is repeated (e.g. 慢慢地)	我在里面听到妈妈大声地跟朋友说："你要死掉了。"	I was inside the room and heard my mother say loudly to her friends, "You are going to die."	book::L03 L03::dialogue grammar
+更 + adj.	gèng + adj.	even more ...; adds '-er' to an adjective, and can be used with 比 (A 比 B + 更 + Adj.), adding the meaning of 'even more'	我们觉得用英文更清楚、更方便。	We find it even clearer and more convenient to use English.	book::L03 L03::essay grammar
+一方面 …… 另一方面 ……	yī fāngmiàn ... lìng yī fāngmiàn ...	on the one hand, on the other hand; used to talk about various aspects of a situation, which can be similar or opposed; 又, 也, or 还 is sometimes added after 另一方面 for emphasis	一方面,当时外公家没有暖气,冷得不得了。另一方面,妈妈一家人在一起的时候都说上海话。	On the one hand, there was no heating at my grandpa's house, and it was terribly cold. On the other hand, my mother's family spoke Shanghainese when they were together.	book::L03 L03::essay grammar
+一 + measure word + (noun) + 都/也 + 不/没 + verb	yī + mw + (noun) + dōu/yě + bù/méi + verb	not even one; indicates that someone did not do something at all	我一句都听不懂。	I cannot understand even one sentence.	book::L03 L03::essay grammar
+Verb + 得 + adj.	Verb + de + adj.	how well an action is done; 得 + adj is a degree complement providing additional information of degree for the verb	妈妈的家人很关心我吃得好不好,玩得高兴不高兴。	My mother's family was very concerned about whether I ate well and whether I had fun or not.	book::L03 L03::essay grammar
+Topic + comment	Topic + comment	a structure unique to Chinese; once the topic (usually a person or thing) is raised, the rest of the sentence comments on it; the topic operates on a discourse level beyond the confines of a single sentence	上海话我还是听不懂。	Shanghainese, I still cannot understand.	book::L03 L03::essay grammar

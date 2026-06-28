@@ -1,0 +1,41 @@
+#separator:tab
+#html:false
+#columns:Simplified	Traditional	Pinyin	POS	English	Tags
+#tags column:6
+语言	語言	yǔyán	n.	language	book::L03 L03::dialogue vocab unit::Family_Language
+普通话	普通話	pǔtōnghuà	n.	Putonghua; Mandarin	book::L03 L03::dialogue vocab unit::Family_Language
+小姨	小姨	xiǎoyí	n.	mother's youngest sister	book::L03 L03::dialogue vocab unit::Family_Language
+上海话	上海話	Shànghǎi huà	n.	Shanghai dialect	book::L03 L03::dialogue vocab unit::Family_Language
+听到	聽到	tīngdào	v.	hear	book::L03 L03::dialogue vocab unit::Family_Language
+懂	懂	dǒng	v.	understand; know	book::L03 L03::dialogue vocab unit::Family_Language
+非常	非常	fēicháng	adv.	very	book::L03 L03::dialogue vocab unit::Family_Language
+口音	口音	kǒuyīn	n.	accent	book::L03 L03::dialogue vocab unit::Family_Language
+方言	方言	fāngyán	n.	regional varieties of Chinese	book::L03 L03::dialogue vocab unit::Family_Language
+互相	互相	hùxiāng	adv.	each other; mutually; mutual	book::L03 L03::dialogue vocab unit::Family_Language
+地方	地方	dìfāng	n.	local; locality	book::L03 L03::dialogue vocab unit::Family_Language
+怪不得	怪不得	guàibùdé	adv.	no wonder; so that's why; that explains why	book::L03 L03::dialogue vocab unit::Family_Language
+翘舌音	翹舌音	qiàoshéyīn	n.	retroflex; zh, chi, shi; some people say 卷舌音 juǎnshéyīn	book::L03 L03::dialogue vocab unit::Family_Language
+掉	掉	diào	adv./v.	drop; fall; V+掉; indicates that the position moves or disappears	book::L03 L03::dialogue vocab unit::Family_Language
+死掉	死掉	sǐ diào	v.	die; kick the bucket	book::L03 L03::dialogue vocab unit::Family_Language
+糊里糊涂	糊里糊塗	húlihútú	adj.	the mind is in a vague state; muddle-headed	book::L03 L03::dialogue vocab unit::Family_Language
+词	詞	cí	n.	word	book::L03 L03::dialogue vocab unit::Family_Language
+钥匙	鑰匙	yàoshi	n.	key	book::L03 L03::dialogue vocab unit::Family_Language
+原来	原來	yuánlái	adj./adv.	original; originally; 原来是这样 = I see	book::L03 L03::dialogue vocab unit::Family_Language
+上海人	上海人	Shànghǎi rén	n.	Shanghainese; Shanghai people (proper name)	book::L03 L03::dialogue vocab unit::Family_Language
+方便	方便	fāngbiàn	adj./v.	convenient; make something convenient	book::L03 L03::essay vocab unit::Family_Language
+记得	記得	jìdé	v.	remember	book::L03 L03::essay vocab unit::Family_Language
+冬天	冬天	dōngtiān	n.	winter	book::L03 L03::essay vocab unit::Family_Language
+春节	春節	chūnjié	n.	Spring Festival	book::L03 L03::essay vocab unit::Family_Language
+开始	開始	kāishǐ	v./n.	begin; beginning	book::L03 L03::essay vocab unit::Family_Language
+外公	外公	wàigōng	n.	maternal grandfather	book::L03 L03::essay vocab unit::Family_Language
+暖气	暖氣	nuǎnqì	n.	heating	book::L03 L03::essay vocab unit::Family_Language
+指	指	zhǐ	v.	point	book::L03 L03::essay vocab unit::Family_Language
+各	各	gè	pron.	each	book::L03 L03::essay vocab unit::Family_Language
+种	種	zhǒng	mw.	type; kind	book::L03 L03::essay vocab unit::Family_Language
+照顾	照顧	zhàogù	v.	take care of	book::L03 L03::essay vocab unit::Family_Language
+关心	關心	guānxīn	v.	care for	book::L03 L03::essay vocab unit::Family_Language
+教	教	jiāo	v.	teach	book::L03 L03::essay vocab unit::Family_Language
+标准	標准	biāozhǔn	n./adj.	standard	book::L03 L03::essay vocab unit::Family_Language
+感觉	感覺	gǎnjué	v./n.	feel; feeling	book::L03 L03::essay vocab unit::Family_Language
+亲切	親切	qīnqiè	adj.	dear; kind	book::L03 L03::essay vocab unit::Family_Language
+方面	方面	fāngmiàn	n.	aspect	book::L03 L03::essay vocab unit::Family_Language

@@ -1,0 +1,441 @@
+#separator:tab
+#html:false
+#columns:Simplified	Traditional	Pinyin	POS	English	Tags
+#tags column:6
+名字	名字	míngzi	n.	name	book::L01 L01::dialogue vocab unit::Me_and_Family
+大学	大學	dàxué	n.	university	book::L01 L01::dialogue vocab unit::Me_and_Family
+年级	年級	niánjí	n.	grade	book::L01 L01::dialogue vocab unit::Me_and_Family
+刚	剛	gāng	adv.	just	book::L01 L01::dialogue vocab unit::Me_and_Family
+搬	搬	bān	v.	move	book::L01 L01::dialogue vocab unit::Me_and_Family
+学校	學校	xuéxiào	n.	school	book::L01 L01::dialogue vocab unit::Me_and_Family
+宿舍	宿舍	sùshè	n.	dormitory	book::L01 L01::dialogue vocab unit::Me_and_Family
+视频聊天	視頻聊天	shìpín liáotiān	v.	video chat/FaceTime	book::L01 L01::dialogue vocab unit::Me_and_Family
+室友	室友	shìyǒu	n.	roommate	book::L01 L01::dialogue vocab unit::Me_and_Family
+忙	忙	máng	adj.	busy	book::L01 L01::dialogue vocab unit::Me_and_Family
+认识	認識	rènshi	v.	meet (a person); recognize	book::L01 L01::dialogue vocab unit::Me_and_Family
+新	新	xīn	adj.	new	book::L01 L01::dialogue vocab unit::Me_and_Family
+留学生	留學生	liúxuéshēng	n.	oversea student	book::L01 L01::dialogue vocab unit::Me_and_Family
+谈恋爱	談戀愛	tán liàn’ài	v.o.	be in a relationship	book::L01 L01::dialogue vocab unit::Me_and_Family
+起 (名字)	起 (名字)	qǐ	v.	to give (a name), interchangeable with 取 qǔ	book::L01 L01::dialogue vocab unit::Me_and_Family
+故事	故事	gùshì	n.	story	book::L01 L01::dialogue vocab unit::Me_and_Family
+句	句	jù	mw.	measure word for sentences	book::L01 L01::dialogue vocab unit::Me_and_Family
+三十而立	三十而立	sānshí érlì	idm.	age when a man should stand on his own feet	book::L01 L01::dialogue vocab unit::Me_and_Family
+岁	歲	suì	n.	years old; year (of age)	book::L01 L01::dialogue vocab unit::Me_and_Family
+以前	以前	yǐqián	adv.	before	book::L01 L01::dialogue vocab unit::Me_and_Family
+结婚	結婚	jiéhūn	v.o.	marry; get married	book::L01 L01::dialogue vocab unit::Me_and_Family
+事业	事業	shìyè	n.	career; undertaking	book::L01 L01::dialogue vocab unit::Me_and_Family
+家庭	家庭	jiātíng	n.	family	book::L01 L01::dialogue vocab unit::Me_and_Family
+出生	出生	chūshēng	v.	be born	book::L01 L01::dialogue vocab unit::Me_and_Family
+知道	知道	zhīdào	v.	know; become aware of	book::L01 L01::dialogue vocab unit::Me_and_Family
+克制	克制	kèzhì	v.	restrain; control; self-control	book::L01 L01::dialogue vocab unit::Me_and_Family
+喜欢	喜歡	xǐhuān	v.	like	book::L01 L01::essay vocab unit::Me_and_Family
+特别	特別	tèbié	adj./adv.	special; particularly	book::L01 L01::essay vocab unit::Me_and_Family
+花心思	花心思	huā xīnsi	v.o.	put thought/effort into	book::L01 L01::essay vocab unit::Me_and_Family
+每	每	měi	pron.	every; each	book::L01 L01::essay vocab unit::Me_and_Family
+一定的	一定的	yīdìng de	adj.	certain; particular	book::L01 L01::essay vocab unit::Me_and_Family
+意义	意義	yìyì	n.	meaning	book::L01 L01::essay vocab unit::Me_and_Family
+华裔	華裔	huáyì	n.	ethnic Chinese	book::L01 L01::essay vocab unit::Me_and_Family
+希望	希望	xīwàng	v.	hope; wish	book::L01 L01::essay vocab unit::Me_and_Family
+子女	子女	zǐnǚ	n.	children	book::L01 L01::essay vocab unit::Me_and_Family
+继承	繼承	jìchéng	v.	inherit	book::L01 L01::essay vocab unit::Me_and_Family
+传统	傳統	chuántǒng	adj./n.	traditional; tradition	book::L01 L01::essay vocab unit::Me_and_Family
+文化	文化	wénhuà	n.	culture	book::L01 L01::essay vocab unit::Me_and_Family
+长辈	長輩	zhǎngbèi	n.	elders	book::L01 L01::essay vocab unit::Me_and_Family
+交流	交流	jiāoliú	v.	communicate	book::L01 L01::essay vocab unit::Me_and_Family
+完美	完美	wánměi	adj.	perfect	book::L01 L01::essay vocab unit::Me_and_Family
+容易	容易	róngyì	adj.	easy	book::L01 L01::essay vocab unit::Me_and_Family
+简单	簡單	jiǎndān	adj.	simple	book::L01 L01::essay vocab unit::Me_and_Family
+符号	符號	fúhào	n.	symbol	book::L01 L01::essay vocab unit::Me_and_Family
+信息	信息	xìnxī	n.	information	book::L01 L01::essay vocab unit::Me_and_Family
+根据	根據	gēnjù	prep.	according to	book::L01 L01::essay vocab unit::Me_and_Family
+发音	發音	fāyīn	v.o./n.	pronounce; pronunciation	book::L01 L01::essay vocab unit::Me_and_Family
+比如	比如	bǐrú	adv.	for example	book::L01 L01::essay vocab unit::Me_and_Family
+听起来	聽起來	tīngqǐlái	v.	sound; 听(聽): listen to; obey; comply	book::L01 L01::essay vocab unit::Me_and_Family
+年代	年代	niándài	n.	age; years; time; decades	book::L01 L01::essay vocab unit::Me_and_Family
+男性	男性	nánxìng	n.	male	book::L01 L01::essay vocab unit::Me_and_Family
+单名	單名	dānmíng	n.	one-character name	book::L01 L01::essay vocab unit::Me_and_Family
+当时	當時	dāngshí	adv.	at that time	book::L01 L01::essay vocab unit::Me_and_Family
+比较	比較	bǐjiào	adv./v.	relatively; compare	book::L01 L01::essay vocab unit::Me_and_Family
+常见	常見	chángjiàn	adj.	common	book::L01 L01::essay vocab unit::Me_and_Family
+报告	報告	bàogào	n.	report	book::L01 L01::essay vocab unit::Me_and_Family
+全	全	quán	adv.	all	book::L01 L01::essay vocab unit::Me_and_Family
+差不多	差不多	chàbùduō	adv.	about; roughly	book::L01 L01::essay vocab unit::Me_and_Family
+万	萬	wàn	num.	ten thousand	book::L01 L01::essay vocab unit::Me_and_Family
+学期	學期	xuéqī	n.	term; semester	book::L02 L02::dialogue vocab unit::Me_and_Family
+选	選	xuǎn	v.	choose; pick; select	book::L02 L02::dialogue vocab unit::Me_and_Family
+同学	同學	tóngxué	n.	classmate	book::L02 L02::dialogue vocab unit::Me_and_Family
+碰	碰	pèng	v.	touch; bump into	book::L02 L02::dialogue vocab unit::Me_and_Family
+开心	開心	kāixīn	adj.	happy	book::L02 L02::dialogue vocab unit::Me_and_Family
+讲	講	jiǎng	v.	speak; be particular about	book::L02 L02::dialogue vocab unit::Me_and_Family
+特点	特點	tèdiǎn	n.	characteristic; trait; feature	book::L02 L02::dialogue vocab unit::Me_and_Family
+好笑	好笑	hǎoxiào	adj.	laughable; funny	book::L02 L02::dialogue vocab unit::Me_and_Family
+亚洲	亞洲	yàzhōu	n.	Asia	book::L02 L02::dialogue vocab unit::Me_and_Family
+筷子	筷子	kuàizi	n.	chopsticks	book::L02 L02::dialogue vocab unit::Me_and_Family
+打	打	dǎ	v.	hit; break; fight; dial	book::L02 L02::dialogue vocab unit::Me_and_Family
+鸡蛋	雞蛋	jīdàn	n.	egg	book::L02 L02::dialogue vocab unit::Me_and_Family
+虽然	雖然	suīrán	conj.	although	book::L02 L02::dialogue vocab unit::Me_and_Family
+移民	移民	yímín	v./n.	immigrate; immigrant	book::L02 L02::dialogue vocab unit::Me_and_Family
+保留	保留	bǎoliú	v.	keep; retain	book::L02 L02::dialogue vocab unit::Me_and_Family
+生活	生活	shēnghuó	n.	life	book::L02 L02::dialogue vocab unit::Me_and_Family
+习惯	習慣	xíguàn	n./v.	habit; be used to	book::L02 L02::dialogue vocab unit::Me_and_Family
+不管	不管	bùguǎn	conj.	no matter; regardless of	book::L02 L02::dialogue vocab unit::Me_and_Family
+长大	長大	zhǎngdà	v.	grow up	book::L02 L02::dialogue vocab unit::Me_and_Family
+混血儿	混血兒	hùnxuè'ér	n.	multiracial children	book::L02 L02::dialogue vocab unit::Me_and_Family
+其实	其實	qíshí	adv.	actually; in fact	book::L02 L02::dialogue vocab unit::Me_and_Family
+小时候	小時候	xiǎoshíhou	n.	in one's childhood	book::L02 L02::dialogue vocab unit::Me_and_Family
+清楚	清楚	qīngchǔ	adj./v.	clear; distinct; understand thoroughly; be clear about	book::L02 L02::dialogue vocab unit::Me_and_Family
+后来	後來	hòulái	adv.	later	book::L02 L02::dialogue vocab unit::Me_and_Family
+拉	拉	lā	v.	pull	book::L02 L02::essay vocab unit::Me_and_Family
+行李箱	行李箱	xínglixiāng	n.	luggage; baggage	book::L02 L02::essay vocab unit::Me_and_Family
+机场	機場	jīchǎng	n.	airport	book::L02 L02::essay vocab unit::Me_and_Family
+排队	排隊	páiduì	v.o.	stand in line	book::L02 L02::essay vocab unit::Me_and_Family
+安检	安檢	ānjiǎn	n./v.	security check	book::L02 L02::essay vocab unit::Me_and_Family
+赶紧	趕緊	gǎnjǐn	adv.	hurriedly	book::L02 L02::essay vocab unit::Me_and_Family
+护照	護照	hùzhào	n.	passport	book::L02 L02::essay vocab unit::Me_and_Family
+机票	機票	jīpiào	n.	plane ticket	book::L02 L02::essay vocab unit::Me_and_Family
+人员	人員	rényuán	n.	personnel	book::L02 L02::essay vocab unit::Me_and_Family
+打招呼	打招呼	dǎ zhāohu	v.o.	say hello	book::L02 L02::essay vocab unit::Me_and_Family
+回复	回覆	huífù	v.	reply	book::L02 L02::essay vocab unit::Me_and_Family
+以为	以為	yǐwéi	v.	think; believe; consider erroneously	book::L02 L02::essay vocab unit::Me_and_Family
+告诉	告訴	gàosu	v.	tell; inform	book::L02 L02::essay vocab unit::Me_and_Family
+问题	問題	wèntí	n.	question; problem	book::L02 L02::essay vocab unit::Me_and_Family
+有点儿	有點兒	yǒudiǎnr	adv.	a little; somewhat; a bit	book::L02 L02::essay vocab unit::Me_and_Family
+生气	生氣	shēngqì	v.o.	get angry	book::L02 L02::essay vocab unit::Me_and_Family
+想要	想要	xiǎngyào	v.	intend; want	book::L02 L02::essay vocab unit::Me_and_Family
+答案	答案	dá'àn	n.	answer	book::L02 L02::essay vocab unit::Me_and_Family
+奇怪	奇怪	qíguài	adj.	strange	book::L02 L02::essay vocab unit::Me_and_Family
+国内	國內	guónèi	n./adj.	interior of country; domestic	book::L02 L02::essay vocab unit::Me_and_Family
+航班	航班	hángbān	n.	flight	book::L02 L02::essay vocab unit::Me_and_Family
+算	算	suàn	v.	calculate; consider; count as	book::L02 L02::essay vocab unit::Me_and_Family
+语言	語言	yǔyán	n.	language	book::L03 L03::dialogue vocab unit::Family_Language
+普通话	普通話	pǔtōnghuà	n.	Putonghua; Mandarin	book::L03 L03::dialogue vocab unit::Family_Language
+小姨	小姨	xiǎoyí	n.	mother's youngest sister	book::L03 L03::dialogue vocab unit::Family_Language
+上海话	上海話	Shànghǎi huà	n.	Shanghai dialect	book::L03 L03::dialogue vocab unit::Family_Language
+听到	聽到	tīngdào	v.	hear	book::L03 L03::dialogue vocab unit::Family_Language
+懂	懂	dǒng	v.	understand; know	book::L03 L03::dialogue vocab unit::Family_Language
+非常	非常	fēicháng	adv.	very	book::L03 L03::dialogue vocab unit::Family_Language
+口音	口音	kǒuyīn	n.	accent	book::L03 L03::dialogue vocab unit::Family_Language
+方言	方言	fāngyán	n.	regional varieties of Chinese	book::L03 L03::dialogue vocab unit::Family_Language
+互相	互相	hùxiāng	adv.	each other; mutually; mutual	book::L03 L03::dialogue vocab unit::Family_Language
+地方	地方	dìfāng	n.	local; locality	book::L03 L03::dialogue vocab unit::Family_Language
+怪不得	怪不得	guàibùdé	adv.	no wonder; so that's why; that explains why	book::L03 L03::dialogue vocab unit::Family_Language
+翘舌音	翹舌音	qiàoshéyīn	n.	retroflex; zh, chi, shi; some people say 卷舌音 juǎnshéyīn	book::L03 L03::dialogue vocab unit::Family_Language
+掉	掉	diào	adv./v.	drop; fall; V+掉; indicates that the position moves or disappears	book::L03 L03::dialogue vocab unit::Family_Language
+死掉	死掉	sǐ diào	v.	die; kick the bucket	book::L03 L03::dialogue vocab unit::Family_Language
+糊里糊涂	糊里糊塗	húlihútú	adj.	the mind is in a vague state; muddle-headed	book::L03 L03::dialogue vocab unit::Family_Language
+词	詞	cí	n.	word	book::L03 L03::dialogue vocab unit::Family_Language
+钥匙	鑰匙	yàoshi	n.	key	book::L03 L03::dialogue vocab unit::Family_Language
+原来	原來	yuánlái	adj./adv.	original; originally; 原来是这样 = I see	book::L03 L03::dialogue vocab unit::Family_Language
+上海人	上海人	Shànghǎi rén	n.	Shanghainese; Shanghai people (proper name)	book::L03 L03::dialogue vocab unit::Family_Language
+方便	方便	fāngbiàn	adj./v.	convenient; make something convenient	book::L03 L03::essay vocab unit::Family_Language
+记得	記得	jìdé	v.	remember	book::L03 L03::essay vocab unit::Family_Language
+冬天	冬天	dōngtiān	n.	winter	book::L03 L03::essay vocab unit::Family_Language
+春节	春節	chūnjié	n.	Spring Festival	book::L03 L03::essay vocab unit::Family_Language
+开始	開始	kāishǐ	v./n.	begin; beginning	book::L03 L03::essay vocab unit::Family_Language
+外公	外公	wàigōng	n.	maternal grandfather	book::L03 L03::essay vocab unit::Family_Language
+暖气	暖氣	nuǎnqì	n.	heating	book::L03 L03::essay vocab unit::Family_Language
+指	指	zhǐ	v.	point	book::L03 L03::essay vocab unit::Family_Language
+各	各	gè	pron.	each	book::L03 L03::essay vocab unit::Family_Language
+种	種	zhǒng	mw.	type; kind	book::L03 L03::essay vocab unit::Family_Language
+照顾	照顧	zhàogù	v.	take care of	book::L03 L03::essay vocab unit::Family_Language
+关心	關心	guānxīn	v.	care for	book::L03 L03::essay vocab unit::Family_Language
+教	教	jiāo	v.	teach	book::L03 L03::essay vocab unit::Family_Language
+标准	標准	biāozhǔn	n./adj.	standard	book::L03 L03::essay vocab unit::Family_Language
+感觉	感覺	gǎnjué	v./n.	feel; feeling	book::L03 L03::essay vocab unit::Family_Language
+亲切	親切	qīnqiè	adj.	dear; kind	book::L03 L03::essay vocab unit::Family_Language
+方面	方面	fāngmiàn	n.	aspect	book::L03 L03::essay vocab unit::Family_Language
+照……(的)说法	照……(的)說法	zhào . . . (de) shuōfǎ	ph.	according to . . .	book::L04 L04::dialogue vocab unit::Family_Language
+官方	官方	guānfāng	adj.	official	book::L04 L04::dialogue vocab unit::Family_Language
+包括	包括	bāokuò	v.	include; comprise	book::L04 L04::dialogue vocab unit::Family_Language
+词汇	詞彙	cíhuì	n.	vocabulary	book::L04 L04::dialogue vocab unit::Family_Language
+语法	語法	yǔfǎ	n.	grammar	book::L04 L04::dialogue vocab unit::Family_Language
+鸡同鸭讲	雞同鴨講	jītóngyājiǎng	ph.	Individuals have difficulty communicating with each other, like a chicken talking to a duck.	book::L04 L04::dialogue vocab unit::Family_Language
+根本(不/没有)	根本(不/沒有)	gēnběn (bù/méiyǒu)	adv.	not at all; absolutely not	book::L04 L04::dialogue vocab unit::Family_Language
+闹笑话	鬧笑話	nào xiàohua	v.o.	make a fool of oneself	book::L04 L04::dialogue vocab unit::Family_Language
+坐船	坐船	zuòchuán	v.o.	by ship; take a boat	book::L04 L04::dialogue vocab unit::Family_Language
+突然	突然	tūrán	adv.	suddenly; abruptly	book::L04 L04::dialogue vocab unit::Family_Language
+跳	跳	tiào	n./v.	jump; hop	book::L04 L04::dialogue vocab unit::Family_Language
+帮	幫	bāng	v.	help; assist	book::L04 L04::dialogue vocab unit::Family_Language
+找	找	zhǎo	v.	look for; seek	book::L04 L04::dialogue vocab unit::Family_Language
+读	讀	dú	v.	read	book::L04 L04::dialogue vocab unit::Family_Language
+一般	一般	yībān	adj./adv.	ordinary; generally; in general	book::L04 L04::dialogue vocab unit::Family_Language
+电视	電視	diànshì	n.	television	book::L04 L04::dialogue vocab unit::Family_Language
+节目	節目	jiémù	n.	program; show	book::L04 L04::dialogue vocab unit::Family_Language
+日常	日常	rìcháng	adj.	daily	book::L04 L04::dialogue vocab unit::Family_Language
+同意	同意	tóngyì	v.	agree; approve	book::L04 L04::dialogue vocab unit::Family_Language
+重要	重要	zhòngyào	adj.	important; significant	book::L04 L04::dialogue vocab unit::Family_Language
+无聊	無聊	wúliáo	adj.	bored; boring; silly	book::L04 L04::dialogue vocab unit::Family_Language
+官话方言	官話方言	Guānhuà fāngyán	pn.	Guan (Mandarin) dialect (spoken primarily in northern and southwestern China)	book::L04 L04::dialogue vocab unit::Family_Language
+吴方言	吳方言	Wú fāngyán	pn.	Wu dialects (spoken primarily in Shanghai and surrounding areas)	book::L04 L04::dialogue vocab unit::Family_Language
+粤方言	粵方言	Yuè fāngyán	pn.	Yue dialect (spoken primarily in Guangdong, Guangxi, Hong Kong, and Macau)	book::L04 L04::dialogue vocab unit::Family_Language
+客家方言	客家方言	Kèjiā fāngyán	pn.	Hakka dialect (spoken primarily in southeastern China)	book::L04 L04::dialogue vocab unit::Family_Language
+广东	廣東	Guǎngdōng	pn.	Guangdong Province in south China	book::L04 L04::dialogue vocab unit::Family_Language
+四川	四川	Sìchuān	pn.	Sichuan Province in southwest China	book::L04 L04::dialogue vocab unit::Family_Language
+拼音	拼音	pīnyīn	n.	official Chinese alphabetic system	book::L04 L04::essay vocab unit::Family_Language
+发明	發明	fāmíng	n./v.	invention; invent	book::L04 L04::essay vocab unit::Family_Language
+有名	有名	yǒumíng	adj.	famous	book::L04 L04::essay vocab unit::Family_Language
+语言学家	語言學家	yǔyánxuéjiā	n.	linguist	book::L04 L04::essay vocab unit::Family_Language
+考上	考上	kǎoshàng	v.	pass entrance examination	book::L04 L04::essay vocab unit::Family_Language
+教会	教會	jiàohuì	n.	church	book::L04 L04::essay vocab unit::Family_Language
+专业	專業	zhuānyè	n.	major	book::L04 L04::essay vocab unit::Family_Language
+经济学	經濟學	jīngjìxué	n.	economics	book::L04 L04::essay vocab unit::Family_Language
+兴趣	興趣	xìngqù	n.	interest	book::L04 L04::essay vocab unit::Family_Language
+毕业	畢業	bìyè	v.	graduate	book::L04 L04::essay vocab unit::Family_Language
+银行家	銀行家	yínhángjiā	n.	banker	book::L04 L04::essay vocab unit::Family_Language
+却	卻	què	adv./conj.	yet; but; however	book::L04 L04::essay vocab unit::Family_Language
+文字学	文字學	wénzìxué	n.	philology	book::L04 L04::essay vocab unit::Family_Language
+参加	參加	cānjiā	v.	join; attend; take part in	book::L04 L04::essay vocab unit::Family_Language
+文字改革	文字改革	wénzì gǎigé	n.	reform of Chinese characters	book::L04 L04::essay vocab unit::Family_Language
+同事	同事	tóngshì	n.	colleague	book::L04 L04::essay vocab unit::Family_Language
+拉丁字母	拉丁字母	Lādīng zìmǔ	n.	Latin alphabet	book::L04 L04::essay vocab unit::Family_Language
+编写	編寫	biānxiě	v.	compile	book::L04 L04::essay vocab unit::Family_Language
+出现	出現	chūxiàn	v.	appear; emerge	book::L04 L04::essay vocab unit::Family_Language
+提高	提高	tígāo	v.	raise; increase; improve	book::L04 L04::essay vocab unit::Family_Language
+能力	能力	nénglì	n.	ability	book::L04 L04::essay vocab unit::Family_Language
+让	讓	ràng	v.	allow; induce someone to do something	book::L04 L04::essay vocab unit::Family_Language
+变	變	biàn	v.	change; become	book::L04 L04::essay vocab unit::Family_Language
+另外	另外	lìngwài	conj.	additionally; in addition; besides	book::L04 L04::essay vocab unit::Family_Language
+电脑	電腦	diànnǎo	n.	computer	book::L04 L04::essay vocab unit::Family_Language
+手机	手機	shǒujī	n.	cell phone	book::L04 L04::essay vocab unit::Family_Language
+打字	打字	dǎzì	v.o.	type	book::L04 L04::essay vocab unit::Family_Language
+去世	去世	qùshì	v.	pass away	book::L04 L04::essay vocab unit::Family_Language
+主张	主張	zhǔzhāng	v./n.	advocate; view	book::L04 L04::essay vocab unit::Family_Language
+代替	代替	dàitì	v.	take place of	book::L04 L04::essay vocab unit::Family_Language
+周有光	周有光	Zhōu Yǒuguāng	pn.	a person's name	book::L04 L04::essay vocab unit::Family_Language
+周耀平	周耀平	Zhōu Yàopíng	pn.	a person's name	book::L04 L04::essay vocab unit::Family_Language
+江苏	江蘇	Jiāngsū	pn.	Jiangsu province	book::L04 L04::essay vocab unit::Family_Language
+常州	常州	Chángzhōu	pn.	Name of a city in Jiangsu province; it is about 185 km west of Shanghai	book::L04 L04::essay vocab unit::Family_Language
+社团	社團	shètuán	n.	organization; group; club	book::L05 L05::dialogue vocab unit::Education
+实习	實習	shíxí	v./n.	intern; internship	book::L05 L05::dialogue vocab unit::Education
+联系	聯繫	liánxì	v.	contact; connect	book::L05 L05::dialogue vocab unit::Education
+孝顺	孝順	xiàoshùn	v./adj.	show filial obedience; filial	book::L05 L05::dialogue vocab unit::Education
+工作	工作	gōngzuò	v./n.	work	book::L05 L05::dialogue vocab unit::Education
+应该	應該	yīnggāi	v.	should; ought to; must	book::L05 L05::dialogue vocab unit::Education
+带	帶	dài	v.	take along; bring; carry	book::L05 L05::dialogue vocab unit::Education
+眼睛	眼睛	yǎnjīng	n.	eyes	book::L05 L05::dialogue vocab unit::Education
+鼻子	鼻子	bízi	n.	nose	book::L05 L05::dialogue vocab unit::Education
+鹅蛋	鵝蛋	édàn	n.	goose egg	book::L05 L05::dialogue vocab unit::Education
+脸	臉	liǎn	n.	face	book::L05 L05::dialogue vocab unit::Education
+棕色	棕色	zōngsè	n.	brown	book::L05 L05::dialogue vocab unit::Education
+皮肤	皮膚	pífū	n.	skin	book::L05 L05::dialogue vocab unit::Education
+身材	身材	shēncái	n.	figure	book::L05 L05::dialogue vocab unit::Education
+苗条	苗條	miáotiáo	adj.	slim	book::L05 L05::dialogue vocab unit::Education
+戴	戴	dài	v.	to wear; *Both 穿 (chuān) and 戴 (dài) are verbs, meaning to put on or wear.	book::L05 L05::dialogue vocab unit::Education
+副	副	fù	mw.	pair	book::L05 L05::dialogue vocab unit::Education
+气质	氣質	qìzhì	n.	temperament; personality traits; manners	book::L05 L05::dialogue vocab unit::Education
+性格	性格	xìnggé	n	personality	book::L05 L05::dialogue vocab unit::Education
+操心	操心	cāoxīn	adj/v.	concerned about; concern	book::L05 L05::dialogue vocab unit::Education
+担心	擔心	dānxīn	v.	worry	book::L05 L05::dialogue vocab unit::Education
+最近	最近	zuìjìn	adv.	recently; lately; in the near future	book::L05 L05::dialogue vocab unit::Education
+望子成龙	望子成龍	wàng zǐ chéng lóng	idm.	have high expectations of one's son	book::L05 L05::essay vocab unit::Education
+望女成凤	望女成鳳	wàng nǚ chéng fèng	idm.	have high expectations of one's daughter	book::L05 L05::essay vocab unit::Education
+成绩	成績	chéngjì	n.	score; grade	book::L05 L05::essay vocab unit::Education
+低	低	dī	adj.	low	book::L05 L05::essay vocab unit::Education
+于	於	yú	prep.	[indicating comparison] than, e.g., 低于; [indicating beginning or source] from, e.g., 来自于	book::L05 L05::essay vocab unit::Education
+过夜	過夜	guòyè	v.	spend a night	book::L05 L05::essay vocab unit::Education
+游戏	遊戲	yóuxì	n.	game	book::L05 L05::essay vocab unit::Education
+教授	教授	jiàoshòu	n.	professor	book::L05 L05::essay vocab unit::Education
+虎妈	虎媽	hǔmā	n.	tiger mom	book::L05 L05::essay vocab unit::Education
+介绍	介紹	jièshào	v.	introduce	book::L05 L05::essay vocab unit::Education
+中国式	中國式	Zhōngguó shì	n.	Chinese style	book::L05 L05::essay vocab unit::Education
+要求	要求	yāoqiú	v./n.	request; require; requirement	book::L05 L05::essay vocab unit::Education
+其中	其中	qízhōng	adv.	among	book::L05 L05::essay vocab unit::Education
+严格	嚴格	yángé	adj.	strict	book::L05 L05::essay vocab unit::Education
+压力	壓力	yālì	n.	pressure	book::L05 L05::essay vocab unit::Education
+年薪	年薪	niánxīn	n.	annual salary; yearly income	book::L05 L05::essay vocab unit::Education
+将来	將來	jiānglái	n.	future	book::L05 L05::essay vocab unit::Education
+研究生	研究生	yánjiūshēng	n.	graduate student	book::L05 L05::essay vocab unit::Education
+申请	申請	shēnqǐng	v.	apply	book::L05 L05::essay vocab unit::Education
+牺牲	犧牲	xīshēng	v./n.	sacrifice	book::L05 L05::essay vocab unit::Education
+钱	錢	qián	n.	money	book::L05 L05::essay vocab unit::Education
+学区房	學區房	xuéqū fáng	n.	house in a good school district	book::L05 L05::essay vocab unit::Education
+付	付	fù	v.	pay	book::L05 L05::essay vocab unit::Education
+学费	學費	xuéfèi	n.	tuition	book::L05 L05::essay vocab unit::Education
+住宿费	住宿費	zhùsù fèi	n.	room and board cost	book::L05 L05::essay vocab unit::Education
+省吃俭用	省吃儉用	shěngchījiǎnyòng	ph.	live frugally	book::L05 L05::essay vocab unit::Education
+负担	負擔	fùdān	n.	burden	book::L05 L05::essay vocab unit::Education
+理所当然	理所當然	lǐsuǒdāngrán	idm.	naturally; to be expected as a matter of course	book::L05 L05::essay vocab unit::Education
+理由	理由	lǐyóu	n.	reason; justification	book::L06 L06::dialogue vocab unit::Education
+流利	流利	liúlì	adj.	fluent	book::L06 L06::dialogue vocab unit::Education
+能够	能夠	nénggòu	v.	to be able to; can	book::L06 L06::dialogue vocab unit::Education
+餐馆	餐館	cānguǎn	n.	restaurant	book::L06 L06::dialogue vocab unit::Education
+菜单	菜單	càidān	n.	menu	book::L06 L06::dialogue vocab unit::Education
+群	群	qún	mw.	group; herd	book::L06 L06::dialogue vocab unit::Education
+当地	當地	dāngdì	adj.	local	book::L06 L06::dialogue vocab unit::Education
+墙	牆	qiáng	n.	wall	book::L06 L06::dialogue vocab unit::Education
+便宜	便宜	piányi	adj.	cheap; inexpensive	book::L06 L06::dialogue vocab unit::Education
+肯定	肯定	kěndìng	adv.	surely; certainly	book::L06 L06::dialogue vocab unit::Education
+吓昏	嚇昏	xiàhūn	v.	faint from fear; shell-shocked	book::L06 L06::dialogue vocab unit::Education
+报纸	報紙	bàozhǐ	n.	newspaper	book::L06 L06::dialogue vocab unit::Education
+逼	逼	bī	v.	force; compel	book::L06 L06::dialogue vocab unit::Education
+紧	緊	jǐn	adj.	tight; strict	book::L06 L06::dialogue vocab unit::Education
+关系	關係	guānxi	n.	relation; relationship	book::L06 L06::dialogue vocab unit::Education
+紧张	緊張	jǐnzhāng	adj.	nervous; intense; tense	book::L06 L06::dialogue vocab unit::Education
+钢琴	鋼琴	gāngqín	n.	piano	book::L06 L06::dialogue vocab unit::Education
+画画	畫畫	huàhuà	v.o.	draw a picture	book::L06 L06::dialogue vocab unit::Education
+越来越	越來越	yuèláiyuè	adv	more and more	book::L06 L06::dialogue vocab unit::Education
+讨厌	討厭	tǎoyàn	v./adj.	dislike; loathe; annoying; troublesome	book::L06 L06::dialogue vocab unit::Education
+满足	滿足	mǎnzú	v.	satisfy	book::L06 L06::dialogue vocab unit::Education
+旅行	旅行	lǚxíng	v./n.	travel; journey; trip	book::L06 L06::dialogue vocab unit::Education
+电影	電影	diànyǐng	n.	movie	book::L06 L06::dialogue vocab unit::Education
+歌曲	歌曲	gēqǔ	n.	song	book::L06 L06::dialogue vocab unit::Education
+歌词	歌詞	gēcí	n.	song lyric	book::L06 L06::dialogue vocab unit::Education
+视角	視角	shìjiǎo	n.	viewpoint; perspective	book::L06 L06::dialogue vocab unit::Education
+考虑	考慮	kǎolǜ	v./n.	consider; consideration	book::L06 L06::dialogue vocab unit::Education
+吸引力	吸引力	xīyǐnlì	n.	attractiveness	book::L06 L06::dialogue vocab unit::Education
+科学	科學	kēxué	n.	science; scientific knowledge	book::L06 L06::dialogue vocab unit::Education
+研究	研究	yánjiū	n./v.	research; study	book::L06 L06::dialogue vocab unit::Education
+聪明	聰明	cōngming	adj.	intelligent; smart	book::L06 L06::dialogue vocab unit::Education
+历史	歷史	lìshǐ	n.	history	book::L06 L06::essay vocab unit::Education
+从	從	cóng	prep.	from; since	book::L06 L06::essay vocab unit::Education
+大多数	大多數	dàduōshù	n.	the majority	book::L06 L06::essay vocab unit::Education
+从事	從事	cóngshì	v.	go in for; deal with (a profession)	book::L06 L06::essay vocab unit::Education
+建筑	建築	jiànzhù	v./n.	build; building; architecture	book::L06 L06::essay vocab unit::Education
+铁路	鐵路	tiělù	n.	railroad	book::L06 L06::essay vocab unit::Education
+经营	經營	jīngyíng	v.	manage; run	book::L06 L06::essay vocab unit::Education
+洗衣店	洗衣店	xǐyīdiàn	n.	laundromat	book::L06 L06::essay vocab unit::Education
+受到	受到	shòudào	v.	be given; suffer the effects of	book::L06 L06::essay vocab unit::Education
+严重	嚴重	yánzhòng	adj.	serious; critical	book::L06 L06::essay vocab unit::Education
+歧视	歧視	qíshì	v./n.	discriminate; discrimination	book::L06 L06::essay vocab unit::Education
+政府	政府	zhèngfǔ	n.	government	book::L06 L06::essay vocab unit::Education
+通过	通過	tōngguò	v.	pass; adopt	book::L06 L06::essay vocab unit::Education
+项	項	xiàng	mw.	for rules, laws, projects	book::L06 L06::essay vocab unit::Education
+法律	法律	fǎlǜ	n.	law	book::L06 L06::essay vocab unit::Education
+禁止	禁止	jìnzhǐ	v.	prohibit	book::L06 L06::essay vocab unit::Education
+妇女	婦女	fùnǚ	n.	women	book::L06 L06::essay vocab unit::Education
+入境	入境	rùjìng	v.o.	enter a country	book::L06 L06::essay vocab unit::Education
+所有的	所有的	suǒyǒu de	adj.	all	book::L06 L06::essay vocab unit::Education
+进入	進入	jìnrù	v.	enter	book::L06 L06::essay vocab unit::Education
+认为	認為	rènwéi	v.	think; believe	book::L06 L06::essay vocab unit::Education
+低人一等	低人一等	dīrényìděng	ph.	be inferior to others	book::L06 L06::essay vocab unit::Education
+难怪	難怪	nánguài	adv.	no wonder	book::L06 L06::essay vocab unit::Education
+重视	重視	zhòngshì	v.	value; attach importance to	book::L06 L06::essay vocab unit::Education
+时期	時期	shíqī	n.	period (of time)	book::L06 L06::essay vocab unit::Education
+发达	發達	fādá	adj.	developed	book::L06 L06::essay vocab unit::Education
+生意	生意	shēngyì	n.	business; trade	book::L06 L06::essay vocab unit::Education
+然而	然而	rán'ér	conj.	but; however	book::L06 L06::essay vocab unit::Education
+政治	政治	zhèngzhì	n.	politics	book::L06 L06::essay vocab unit::Education
+原因	原因	yuányīn	n.	reason	book::L06 L06::essay vocab unit::Education
+亚裔	亞裔	yàyì	n.	of Asian descent	book::L06 L06::essay vocab unit::Education
+因此	因此	yīncǐ	conj.	therefore; consequently	book::L06 L06::essay vocab unit::Education
+发展	發展	fāzhǎn	v./n.	develop; development	book::L06 L06::essay vocab unit::Education
+直接	直接	zhíjiē	adj./adv.	direct; directly	book::L06 L06::essay vocab unit::Education
+由于	由於	yóuyú	prep.	because of; owing to	book::L06 L06::essay vocab unit::Education
+初	初	chū	adv.	at the beginning	book::L07 L07::dialogue vocab unit::Immigration_Stories
+投资	投資	tóuzī	v./n.	invest; investment	book::L07 L07::dialogue vocab unit::Immigration_Stories
+饮食	飲食	yǐnshí	n.	diet	book::L07 L07::dialogue vocab unit::Immigration_Stories
+早餐	早餐	zǎocān	n.	breakfast	book::L07 L07::dialogue vocab unit::Immigration_Stories
+午餐	午餐	wǔcān	n.	lunch	book::L07 L07::dialogue vocab unit::Immigration_Stories
+晚餐	晚餐	wǎncān	n.	dinner	book::L07 L07::dialogue vocab unit::Immigration_Stories
+喝	喝	hē	v.	drink	book::L07 L07::dialogue vocab unit::Immigration_Stories
+杯	杯	bēi	mw.	cup; cupful; glassful	book::L07 L07::dialogue vocab unit::Immigration_Stories
+咖啡	咖啡	kāfēi	n.	coffee	book::L07 L07::dialogue vocab unit::Immigration_Stories
+即使	即使	jíshǐ	conj.	even if	book::L07 L07::dialogue vocab unit::Immigration_Stories
+冰	冰	bīng	n./adj.	ice; icy	book::L07 L07::dialogue vocab unit::Immigration_Stories
+牛奶	牛奶	niúnǎi	n.	milk	book::L07 L07::dialogue vocab unit::Immigration_Stories
+麦片	麥片	màipiàn	n.	cereal	book::L07 L07::dialogue vocab unit::Immigration_Stories
+三明治	三明治	sānmíngzhì	n.	sandwich	book::L07 L07::dialogue vocab unit::Immigration_Stories
+汉堡	漢堡	hànbǎo	n.	hamburger	book::L07 L07::dialogue vocab unit::Immigration_Stories
+受不了	受不了	shòubùliǎo	v.	be unable to endure; cannot stand/bear	book::L07 L07::dialogue vocab unit::Immigration_Stories
+点餐	點餐	diǎncān	v.o.	order food	book::L07 L07::dialogue vocab unit::Immigration_Stories
+土豆饼	土豆餅	tǔdòubǐng	n.	hash brown	book::L07 L07::dialogue vocab unit::Immigration_Stories
+服务员	服務員	fúwùyuán	n.	waiter; waitress	book::L07 L07::dialogue vocab unit::Immigration_Stories
+卖	賣	mài	v.	sell	book::L07 L07::dialogue vocab unit::Immigration_Stories
+家	家	jiā	mw.	individual measure for a family; individual measure for institutions and enterprises	book::L07 L07::dialogue vocab unit::Immigration_Stories
+超市	超市	chāoshì	n.	supermarket	book::L07 L07::dialogue vocab unit::Immigration_Stories
+寂寞	寂寞	jìmò	adj.	lonely	book::L07 L07::dialogue vocab unit::Immigration_Stories
+融入	融入	róngrù	v.	adapt to; mingle with	book::L07 L07::dialogue vocab unit::Immigration_Stories
+熔炉	熔爐	rónglú	n.	melting pot	book::L07 L07::dialogue vocab unit::Immigration_Stories
+纸	紙	zhǐ	n.	paper	book::L07 L07::essay vocab unit::Immigration_Stories
+商人	商人	shāngrén	n.	merchant	book::L07 L07::essay vocab unit::Immigration_Stories
+公民	公民	gōngmín	n.	citizen	book::L07 L07::essay vocab unit::Immigration_Stories
+地震	地震	dìzhèn	n.	earthquake	book::L07 L07::essay vocab unit::Immigration_Stories
+市政厅	市政廳	shìzhèngtīng	n.	city hall	book::L07 L07::essay vocab unit::Immigration_Stories
+着火	著火	zháohuǒ	v.	on fire; catch fire	book::L07 L07::essay vocab unit::Immigration_Stories
+烧毁	燒毀	shāohuǐ	v.	destroy by fire	book::L07 L07::essay vocab unit::Immigration_Stories
+声称	聲稱	shēngchēng	v.	claim	book::L07 L07::essay vocab unit::Immigration_Stories
+名额	名額	míng'é	n.	quota	book::L07 L07::essay vocab unit::Immigration_Stories
+假	假	jiǎ	adj.	fake	book::L07 L07::essay vocab unit::Immigration_Stories
+身份	身份	shēnfèn	n.	identity	book::L07 L07::essay vocab unit::Immigration_Stories
+移民局	移民局	yímínjú	n.	Immigration Office	book::L07 L07::essay vocab unit::Immigration_Stories
+审问	審問	shěnwèn	n./v.	interrogation; interrogate	book::L07 L07::essay vocab unit::Immigration_Stories
+版图	版圖	bǎntú	n.	domain; territory	book::L08 L08::dialogue vocab unit::Immigration_Stories
+课本	課本	kèběn	n.	textbook	book::L08 L08::dialogue vocab unit::Immigration_Stories
+保护	保護	bǎohù	n./v.	protect; protection; defend	book::L08 L08::dialogue vocab unit::Immigration_Stories
+北边	北邊	běibian	n.	north; north side; northern part; to the north of	book::L08 L08::dialogue vocab unit::Immigration_Stories
+少数民族	少數民族	shǎoshùmínzú	n.	minority; ethnic group	book::L08 L08::dialogue vocab unit::Immigration_Stories
+时代	時代	shídài	n.	age; era; epoch	book::L08 L08::dialogue vocab unit::Immigration_Stories
+统一	統一	tǒngyī	n./adj.	unity; unified; unitary	book::L08 L08::dialogue vocab unit::Immigration_Stories
+省	省	shěng	n./v.	province; save	book::L08 L08::dialogue vocab unit::Immigration_Stories
+扩大	擴大	kuòdà	v.	expand; enlarge; broaden one's scope	book::L08 L08::dialogue vocab unit::Immigration_Stories
+经过	經過	jīngguò	v.	pass; go through	book::L08 L08::dialogue vocab unit::Immigration_Stories
+朝代	朝代	cháodài	n.	dynasty	book::L08 L08::dialogue vocab unit::Immigration_Stories
+渐渐	漸漸	jiànjiàn	adv.	gradually	book::L08 L08::dialogue vocab unit::Immigration_Stories
+战争	戰爭	zhànzhēng	n.	war; conflict	book::L08 L08::dialogue vocab unit::Immigration_Stories
+部分	部分	bùfen	n.	part; share; section; piece	book::L08 L08::dialogue vocab unit::Immigration_Stories
+由	由	yóu	prep.	by; from	book::L08 L08::dialogue vocab unit::Immigration_Stories
+建立	建立	jiànlì	v.	establish; set up; found	book::L08 L08::dialogue vocab unit::Immigration_Stories
+强大	強大	qiángdà	adj.	powerful; strong	book::L08 L08::dialogue vocab unit::Immigration_Stories
+国王	國王	guówáng	n.	king	book::L08 L08::dialogue vocab unit::Immigration_Stories
+朝拜	朝拜	cháobài	v.	worship; pilgrimage	book::L08 L08::dialogue vocab unit::Immigration_Stories
+皇帝	皇帝	huángdì	n.	emperor	book::L08 L08::dialogue vocab unit::Immigration_Stories
+州	州	zhōu	n.	state (e.g., of the United States)	book::L08 L08::dialogue vocab unit::Immigration_Stories
+州府	州府	zhōufǔ	n.	state capital	book::L08 L08::dialogue vocab unit::Immigration_Stories
+省会	省會	shěnghuì	n.	provincial capital	book::L08 L08::dialogue vocab unit::Immigration_Stories
+首都	首都	shǒudū	n.	capital	book::L08 L08::dialogue vocab unit::Immigration_Stories
+位于	位於	wèiyú	v.	be located/situated	book::L08 L08::essay vocab unit::Immigration_Stories
+部	部	bù	n.	part/section (usually a suffix of direction words such as 南部)	book::L08 L08::essay vocab unit::Immigration_Stories
+盆地	盆地	péndì	n.	basin (geog.)	book::L08 L08::essay vocab unit::Immigration_Stories
+高原	高原	gāoyuán	n.	plateau	book::L08 L08::essay vocab unit::Immigration_Stories
+组成	組成	zǔchéng	v.	form/make up (into)	book::L08 L08::essay vocab unit::Immigration_Stories
+气候	氣候	qìhòu	n.	climate	book::L08 L08::essay vocab unit::Immigration_Stories
+复杂	複雜	fùzá	adj.	complicated; complex	book::L08 L08::essay vocab unit::Immigration_Stories
+四季	四季	sìjì	n.	four seasons	book::L08 L08::essay vocab unit::Immigration_Stories
+平均	平均	píngjūn	adj./adv.	average; equally	book::L08 L08::essay vocab unit::Immigration_Stories
+温度	温度	wēndù	n.	temperature	book::L08 L08::essay vocab unit::Immigration_Stories
+摄氏度	攝氏度	shèshìdù	n.	Celsius; 华氏度 Fahrenheit	book::L08 L08::essay vocab unit::Immigration_Stories
+面积	面積	miànjī	n.	surface area	book::L08 L08::essay vocab unit::Immigration_Stories
+平方公里	平方公里	píngfānggōnglǐ	n.	square kilometer	book::L08 L08::essay vocab unit::Immigration_Stories
+风景	風景	fēngjǐng	n.	scenery	book::L08 L08::essay vocab unit::Immigration_Stories
+景点	景點	jǐngdiǎn	n.	scenic spots	book::L08 L08::essay vocab unit::Immigration_Stories
+面食小吃	麵食小吃	miànshí xiǎochī	n.	cooked wheaten snacks	book::L08 L08::essay vocab unit::Immigration_Stories
+火锅	火鍋	huǒguō	n.	hot pot	book::L08 L08::essay vocab unit::Immigration_Stories
+口味	口味	kǒuwèi	n.	a person's taste	book::L08 L08::essay vocab unit::Immigration_Stories
+辣	辣	là	adj.	spicy	book::L08 L08::essay vocab unit::Immigration_Stories
+国宝	國寶	guóbǎo	n.	national treasure	book::L08 L08::essay vocab unit::Immigration_Stories
+大熊猫	大熊猫	dàxióngmāo	n.	giant panda	book::L08 L08::essay vocab unit::Immigration_Stories
+游客	遊客	yóukè	n.	tourist	book::L08 L08::essay vocab unit::Immigration_Stories
+观赏	觀賞	guānshǎng	v.	enjoy sight of	book::L08 L08::essay vocab unit::Immigration_Stories
+宝宝	寶寶	bǎobao	n.	baby	book::L08 L08::essay vocab unit::Immigration_Stories
+互动	互動	hùdòng	v./n.	interact; interaction	book::L08 L08::essay vocab unit::Immigration_Stories
+独居	獨居	dújū	v.	live alone	book::L08 L08::essay vocab unit::Immigration_Stories
+熟悉	熟悉	shúxī	v.	know something/someone well	book::L08 L08::essay vocab unit::Immigration_Stories
+排泄物	排泄物	páixièwù	n.	excrement	book::L08 L08::essay vocab unit::Immigration_Stories
+抹	抹	mǒ	v.	daub; rub	book::L08 L08::essay vocab unit::Immigration_Stories
+闻	聞	wén	v.	smell	book::L08 L08::essay vocab unit::Immigration_Stories
+味道	味道	wèidao	n.	taste; flavor; smell	book::L08 L08::essay vocab unit::Immigration_Stories
+菜名	菜名	cài míng	n.	dish name	book::L09 L09::dialogue vocab unit::Community_and_Society
+翻译	翻譯	fānyì	v./n.	translate; translation	book::L09 L09::dialogue vocab unit::Community_and_Society
+中国城	中國城	Zhōngguóchéng	n.	Chinatown	book::L09 L09::dialogue vocab unit::Community_and_Society
+大概	大概	dàgài	adv.	probably	book::L09 L09::dialogue vocab unit::Community_and_Society
+客人	客人	kèrén	n.	guest	book::L09 L09::dialogue vocab unit::Community_and_Society
+粉丝	粉絲	fěnsī	n.	vermicelli made from bean starch; fan	book::L09 L09::dialogue vocab unit::Community_and_Society
+可怕	可怕	kěpà	adj.	horrible	book::L09 L09::dialogue vocab unit::Community_and_Society
+蚂蚁	螞蟻	mǎyǐ	n.	ant	book::L09 L09::dialogue vocab unit::Community_and_Society
+影响	影響	yǐngxiǎng	n./v.	influence	book::L09 L09::dialogue vocab unit::Community_and_Society
+吉祥	吉祥	jíxiáng	adj.	auspicious	book::L09 L09::dialogue vocab unit::Community_and_Society
+年糕	年糕	niángāo	n.	rice cake	book::L09 L09::dialogue vocab unit::Community_and_Society
+发菜	髮菜	fàcài	n.	hair-like seaweed; fat choy	book::L09 L09::dialogue vocab unit::Community_and_Society
+发财	發財	fācái	v.o.	get rich	book::L09 L09::dialogue vocab unit::Community_and_Society
+运气	運氣	yùnqì	n.	luck	book::L09 L09::dialogue vocab unit::Community_and_Society
+富裕	富裕	fùyù	adj.	rich	book::L09 L09::dialogue vocab unit::Community_and_Society
+谐音字	諧音字	xiéyīn zì	n.	homophonic words	book::L09 L09::dialogue vocab unit::Community_and_Society
+学问	學問	xuéwèn	n.	knowledge	book::L09 L09::dialogue vocab unit::Community_and_Society
+周末	周末	zhōumò	n.	weekend	book::L09 L09::dialogue vocab unit::Community_and_Society
+挤来挤去	擠來擠去	jǐ lái jǐ qù	v.	squeeze around	book::L09 L09::dialogue vocab unit::Community_and_Society
+舒服	舒服	shūfu	adj.	comfortable	book::L09 L09::dialogue vocab unit::Community_and_Society
+点菜	點菜	diǎncài	v.o.	choose dishes from a menu; order dishes	book::L09 L09::dialogue vocab unit::Community_and_Society
+蚂蚁上树	螞蟻上樹	Mǎyǐ shàngshù		Sauteed vermicelli with minced pork (proper name)	book::L09 L09::dialogue vocab unit::Community_and_Society
+红烧狮子头	紅燒獅子頭	Hóngshāo shīzitóu		Braised pork ball in brown sauce (proper name)	book::L09 L09::dialogue vocab unit::Community_and_Society
+夫妻肺片	夫妻肺片	Fūqī fèipiàn		Sliced beef and ox tongue in chili sauce (proper name)	book::L09 L09::dialogue vocab unit::Community_and_Society
+佛跳墙	佛跳墻	Fótiàoqiáng		Steamed abalone with shark's fin and fish maw (proper name)	book::L09 L09::dialogue vocab unit::Community_and_Society

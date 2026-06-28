@@ -1,0 +1,15 @@
+#separator:tab
+#html:false
+#columns:Pattern	Pinyin	Usage	ExampleZh	ExampleEn	Tags
+#tags column:6
+又 adj./verb 又 adj./verb	yòu ... yòu ...	both . . . and . . . (the two highlighted traits should both be positive or both negative)	中文学校的功课又多又难。	The homework in Chinese school is so many and difficult.	book::L06 L06::dialogue grammar
+越来越 adj./stative verb	yuèláiyuè ...	more and more adj./stative verb over time	我越来越讨厌这种生活,特别是牺牲星期六的时间去中文学校。	I hate this kind of life more and more, especially when I sacrifice Saturdays to go to Chinese school.	book::L06 L06::dialogue grammar
+越 …… 越 ……	yuè ... yuè ...	the more . . . the more (verbs typically follow the first yue, adjectives/emotion verbs follow the second)	大家越吃越奇怪,吃起来像鸡肉,一点也不像牛肉。	The more everyone eats it, the stranger they feel. It tastes like chicken, not like beef at all.	book::L06 L06::dialogue grammar
+对 someone 来说	duì ... lái shuō	to/for someone (feeling/opinion based on personal experience)	对我来说,学中文并不只是为了满足大学的语言要求,也是为了和妈妈在中国的家人交流。	For me, learning Chinese is not only to meet the language requirements of universities but also to communicate with my mother's family in China.	book::L06 L06::dialogue grammar
+(并) 不只是 …… 也是 ……	(bìng) bù zhǐshì ... yěshì ...	more than . . . it is also . . . (并 strengthens the tone)	我家的狗狗不只是宠物,也是我的家人。	Our doggie is more than a pet; it is also my family.	book::L06 L06::dialogue grammar
+把 . . . + V + resultative complement	bǎ ...	ba-structure describing the disposal of an object and the result the action leads to	如果我把中文学好,将来还可以教我的小孩。	If I learn Chinese well, I can teach my children in the future.	book::L06 L06::dialogue grammar
+从 …… 到 ……	cóng ... dào ...	from . . . to . . .	我们从星期一到星期五都有中文课。	We have Chinese classes from Mondays to Fridays.	book::L06 L06::essay grammar
+受到 ……	shòudào ...	suffer from . . . or is received . . . (used in positive or negative situations; the thing received must be abstract)	《排华法案》以后,中国移民受到很严重的歧视。	After the Chinese Exclusion Act, Chinese immigrants suffered from discrimination.	book::L06 L06::essay grammar
+跟 + Noun + Verb	gēn ... + V	do something with someone (the verb goes after 'with someone')	美国人想跟中国做生意。	Americans would like to do business with China.	book::L06 L06::essay grammar
+因此,sentence	yīncǐ, ...	Therefore . . . (summarizes the previous statement; placed at the beginning)	因此,戈鲲化的故事告诉我们,美国中文教育的发展跟政治和经济有直接的关系。	Therefore, from the story of Ge Kunhua, we know that the development of Chinese education in the United States is directly related to politics and economy.	book::L06 L06::essay grammar
+A 跟 B 有 …… 的关系	A gēn B yǒu ... de guānxi	A is related to B / A has something to do with B	美国中文教育的发展跟政治和经济有直接的关系。	The development of Chinese language education in the U.S. is directly related to politics and economy.	book::L06 L06::essay grammar

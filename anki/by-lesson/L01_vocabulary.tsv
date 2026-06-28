@@ -1,0 +1,63 @@
+#separator:tab
+#html:false
+#columns:Simplified	Traditional	Pinyin	POS	English	Tags
+#tags column:6
+名字	名字	míngzi	n.	name	book::L01 L01::dialogue vocab unit::Me_and_Family
+大学	大學	dàxué	n.	university	book::L01 L01::dialogue vocab unit::Me_and_Family
+年级	年級	niánjí	n.	grade	book::L01 L01::dialogue vocab unit::Me_and_Family
+刚	剛	gāng	adv.	just	book::L01 L01::dialogue vocab unit::Me_and_Family
+搬	搬	bān	v.	move	book::L01 L01::dialogue vocab unit::Me_and_Family
+学校	學校	xuéxiào	n.	school	book::L01 L01::dialogue vocab unit::Me_and_Family
+宿舍	宿舍	sùshè	n.	dormitory	book::L01 L01::dialogue vocab unit::Me_and_Family
+视频聊天	視頻聊天	shìpín liáotiān	v.	video chat/FaceTime	book::L01 L01::dialogue vocab unit::Me_and_Family
+室友	室友	shìyǒu	n.	roommate	book::L01 L01::dialogue vocab unit::Me_and_Family
+忙	忙	máng	adj.	busy	book::L01 L01::dialogue vocab unit::Me_and_Family
+认识	認識	rènshi	v.	meet (a person); recognize	book::L01 L01::dialogue vocab unit::Me_and_Family
+新	新	xīn	adj.	new	book::L01 L01::dialogue vocab unit::Me_and_Family
+留学生	留學生	liúxuéshēng	n.	oversea student	book::L01 L01::dialogue vocab unit::Me_and_Family
+谈恋爱	談戀愛	tán liàn’ài	v.o.	be in a relationship	book::L01 L01::dialogue vocab unit::Me_and_Family
+起 (名字)	起 (名字)	qǐ	v.	to give (a name), interchangeable with 取 qǔ	book::L01 L01::dialogue vocab unit::Me_and_Family
+故事	故事	gùshì	n.	story	book::L01 L01::dialogue vocab unit::Me_and_Family
+句	句	jù	mw.	measure word for sentences	book::L01 L01::dialogue vocab unit::Me_and_Family
+三十而立	三十而立	sānshí érlì	idm.	age when a man should stand on his own feet	book::L01 L01::dialogue vocab unit::Me_and_Family
+岁	歲	suì	n.	years old; year (of age)	book::L01 L01::dialogue vocab unit::Me_and_Family
+以前	以前	yǐqián	adv.	before	book::L01 L01::dialogue vocab unit::Me_and_Family
+结婚	結婚	jiéhūn	v.o.	marry; get married	book::L01 L01::dialogue vocab unit::Me_and_Family
+事业	事業	shìyè	n.	career; undertaking	book::L01 L01::dialogue vocab unit::Me_and_Family
+家庭	家庭	jiātíng	n.	family	book::L01 L01::dialogue vocab unit::Me_and_Family
+出生	出生	chūshēng	v.	be born	book::L01 L01::dialogue vocab unit::Me_and_Family
+知道	知道	zhīdào	v.	know; become aware of	book::L01 L01::dialogue vocab unit::Me_and_Family
+克制	克制	kèzhì	v.	restrain; control; self-control	book::L01 L01::dialogue vocab unit::Me_and_Family
+喜欢	喜歡	xǐhuān	v.	like	book::L01 L01::essay vocab unit::Me_and_Family
+特别	特別	tèbié	adj./adv.	special; particularly	book::L01 L01::essay vocab unit::Me_and_Family
+花心思	花心思	huā xīnsi	v.o.	put thought/effort into	book::L01 L01::essay vocab unit::Me_and_Family
+每	每	měi	pron.	every; each	book::L01 L01::essay vocab unit::Me_and_Family
+一定的	一定的	yīdìng de	adj.	certain; particular	book::L01 L01::essay vocab unit::Me_and_Family
+意义	意義	yìyì	n.	meaning	book::L01 L01::essay vocab unit::Me_and_Family
+华裔	華裔	huáyì	n.	ethnic Chinese	book::L01 L01::essay vocab unit::Me_and_Family
+希望	希望	xīwàng	v.	hope; wish	book::L01 L01::essay vocab unit::Me_and_Family
+子女	子女	zǐnǚ	n.	children	book::L01 L01::essay vocab unit::Me_and_Family
+继承	繼承	jìchéng	v.	inherit	book::L01 L01::essay vocab unit::Me_and_Family
+传统	傳統	chuántǒng	adj./n.	traditional; tradition	book::L01 L01::essay vocab unit::Me_and_Family
+文化	文化	wénhuà	n.	culture	book::L01 L01::essay vocab unit::Me_and_Family
+长辈	長輩	zhǎngbèi	n.	elders	book::L01 L01::essay vocab unit::Me_and_Family
+交流	交流	jiāoliú	v.	communicate	book::L01 L01::essay vocab unit::Me_and_Family
+完美	完美	wánměi	adj.	perfect	book::L01 L01::essay vocab unit::Me_and_Family
+容易	容易	róngyì	adj.	easy	book::L01 L01::essay vocab unit::Me_and_Family
+简单	簡單	jiǎndān	adj.	simple	book::L01 L01::essay vocab unit::Me_and_Family
+符号	符號	fúhào	n.	symbol	book::L01 L01::essay vocab unit::Me_and_Family
+信息	信息	xìnxī	n.	information	book::L01 L01::essay vocab unit::Me_and_Family
+根据	根據	gēnjù	prep.	according to	book::L01 L01::essay vocab unit::Me_and_Family
+发音	發音	fāyīn	v.o./n.	pronounce; pronunciation	book::L01 L01::essay vocab unit::Me_and_Family
+比如	比如	bǐrú	adv.	for example	book::L01 L01::essay vocab unit::Me_and_Family
+听起来	聽起來	tīngqǐlái	v.	sound; 听(聽): listen to; obey; comply	book::L01 L01::essay vocab unit::Me_and_Family
+年代	年代	niándài	n.	age; years; time; decades	book::L01 L01::essay vocab unit::Me_and_Family
+男性	男性	nánxìng	n.	male	book::L01 L01::essay vocab unit::Me_and_Family
+单名	單名	dānmíng	n.	one-character name	book::L01 L01::essay vocab unit::Me_and_Family
+当时	當時	dāngshí	adv.	at that time	book::L01 L01::essay vocab unit::Me_and_Family
+比较	比較	bǐjiào	adv./v.	relatively; compare	book::L01 L01::essay vocab unit::Me_and_Family
+常见	常見	chángjiàn	adj.	common	book::L01 L01::essay vocab unit::Me_and_Family
+报告	報告	bàogào	n.	report	book::L01 L01::essay vocab unit::Me_and_Family
+全	全	quán	adv.	all	book::L01 L01::essay vocab unit::Me_and_Family
+差不多	差不多	chàbùduō	adv.	about; roughly	book::L01 L01::essay vocab unit::Me_and_Family
+万	萬	wàn	num.	ten thousand	book::L01 L01::essay vocab unit::Me_and_Family

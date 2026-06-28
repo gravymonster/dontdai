@@ -1,0 +1,54 @@
+#separator:tab
+#html:false
+#columns:Simplified	Traditional	Pinyin	POS	English	Tags
+#tags column:6
+社团	社團	shètuán	n.	organization; group; club	book::L05 L05::dialogue vocab unit::Education
+实习	實習	shíxí	v./n.	intern; internship	book::L05 L05::dialogue vocab unit::Education
+联系	聯繫	liánxì	v.	contact; connect	book::L05 L05::dialogue vocab unit::Education
+孝顺	孝順	xiàoshùn	v./adj.	show filial obedience; filial	book::L05 L05::dialogue vocab unit::Education
+工作	工作	gōngzuò	v./n.	work	book::L05 L05::dialogue vocab unit::Education
+应该	應該	yīnggāi	v.	should; ought to; must	book::L05 L05::dialogue vocab unit::Education
+带	帶	dài	v.	take along; bring; carry	book::L05 L05::dialogue vocab unit::Education
+眼睛	眼睛	yǎnjīng	n.	eyes	book::L05 L05::dialogue vocab unit::Education
+鼻子	鼻子	bízi	n.	nose	book::L05 L05::dialogue vocab unit::Education
+鹅蛋	鵝蛋	édàn	n.	goose egg	book::L05 L05::dialogue vocab unit::Education
+脸	臉	liǎn	n.	face	book::L05 L05::dialogue vocab unit::Education
+棕色	棕色	zōngsè	n.	brown	book::L05 L05::dialogue vocab unit::Education
+皮肤	皮膚	pífū	n.	skin	book::L05 L05::dialogue vocab unit::Education
+身材	身材	shēncái	n.	figure	book::L05 L05::dialogue vocab unit::Education
+苗条	苗條	miáotiáo	adj.	slim	book::L05 L05::dialogue vocab unit::Education
+戴	戴	dài	v.	to wear; *Both 穿 (chuān) and 戴 (dài) are verbs, meaning to put on or wear.	book::L05 L05::dialogue vocab unit::Education
+副	副	fù	mw.	pair	book::L05 L05::dialogue vocab unit::Education
+气质	氣質	qìzhì	n.	temperament; personality traits; manners	book::L05 L05::dialogue vocab unit::Education
+性格	性格	xìnggé	n	personality	book::L05 L05::dialogue vocab unit::Education
+操心	操心	cāoxīn	adj/v.	concerned about; concern	book::L05 L05::dialogue vocab unit::Education
+担心	擔心	dānxīn	v.	worry	book::L05 L05::dialogue vocab unit::Education
+最近	最近	zuìjìn	adv.	recently; lately; in the near future	book::L05 L05::dialogue vocab unit::Education
+望子成龙	望子成龍	wàng zǐ chéng lóng	idm.	have high expectations of one's son	book::L05 L05::essay vocab unit::Education
+望女成凤	望女成鳳	wàng nǚ chéng fèng	idm.	have high expectations of one's daughter	book::L05 L05::essay vocab unit::Education
+成绩	成績	chéngjì	n.	score; grade	book::L05 L05::essay vocab unit::Education
+低	低	dī	adj.	low	book::L05 L05::essay vocab unit::Education
+于	於	yú	prep.	[indicating comparison] than, e.g., 低于; [indicating beginning or source] from, e.g., 来自于	book::L05 L05::essay vocab unit::Education
+过夜	過夜	guòyè	v.	spend a night	book::L05 L05::essay vocab unit::Education
+游戏	遊戲	yóuxì	n.	game	book::L05 L05::essay vocab unit::Education
+教授	教授	jiàoshòu	n.	professor	book::L05 L05::essay vocab unit::Education
+虎妈	虎媽	hǔmā	n.	tiger mom	book::L05 L05::essay vocab unit::Education
+介绍	介紹	jièshào	v.	introduce	book::L05 L05::essay vocab unit::Education
+中国式	中國式	Zhōngguó shì	n.	Chinese style	book::L05 L05::essay vocab unit::Education
+要求	要求	yāoqiú	v./n.	request; require; requirement	book::L05 L05::essay vocab unit::Education
+其中	其中	qízhōng	adv.	among	book::L05 L05::essay vocab unit::Education
+严格	嚴格	yángé	adj.	strict	book::L05 L05::essay vocab unit::Education
+压力	壓力	yālì	n.	pressure	book::L05 L05::essay vocab unit::Education
+年薪	年薪	niánxīn	n.	annual salary; yearly income	book::L05 L05::essay vocab unit::Education
+将来	將來	jiānglái	n.	future	book::L05 L05::essay vocab unit::Education
+研究生	研究生	yánjiūshēng	n.	graduate student	book::L05 L05::essay vocab unit::Education
+申请	申請	shēnqǐng	v.	apply	book::L05 L05::essay vocab unit::Education
+牺牲	犧牲	xīshēng	v./n.	sacrifice	book::L05 L05::essay vocab unit::Education
+钱	錢	qián	n.	money	book::L05 L05::essay vocab unit::Education
+学区房	學區房	xuéqū fáng	n.	house in a good school district	book::L05 L05::essay vocab unit::Education
+付	付	fù	v.	pay	book::L05 L05::essay vocab unit::Education
+学费	學費	xuéfèi	n.	tuition	book::L05 L05::essay vocab unit::Education
+住宿费	住宿費	zhùsù fèi	n.	room and board cost	book::L05 L05::essay vocab unit::Education
+省吃俭用	省吃儉用	shěngchījiǎnyòng	ph.	live frugally	book::L05 L05::essay vocab unit::Education
+负担	負擔	fùdān	n.	burden	book::L05 L05::essay vocab unit::Education
+理所当然	理所當然	lǐsuǒdāngrán	idm.	naturally; to be expected as a matter of course	book::L05 L05::essay vocab unit::Education

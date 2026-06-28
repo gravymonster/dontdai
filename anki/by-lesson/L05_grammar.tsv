@@ -1,0 +1,16 @@
+#separator:tab
+#html:false
+#columns:Pattern	Pinyin	Usage	ExampleZh	ExampleEn	Tags
+#tags column:6
+Subject + (已经) + Duration + 没 + Verb + 了	yǐjīng ... méi ... le	have not done something for a period of time (已经 can be omitted)	你已经一个月没跟爸爸妈妈视频聊天了。	You haven't had a video chat with Mom and Dad for a month.	book::L05 L05::dialogue grammar
+除了 …… 以外 …… (也/还/都) ……	chúle ... yǐwài ... (yě/hái/dōu)	besides / in addition to ... (with 都 it means "except")	除了上课以外,我也参加了两个社团,另外还想找实习。	Besides attending classes, I also joined two clubs, and I also want to find an internship.	book::L05 L05::dialogue grammar
+Subject + 一点(儿) + 也/都 + 不 + Adj./Verb Phrase	yìdiǎn(r) yě/dōu bù	not ... at all	你们俩一点都不关心父母!	You two don't care about your parents at all!	book::L05 L05::dialogue grammar
+挺 adj 的	tǐng ... de	quite / rather / pretty (adjective); common in spoken Chinese	她跟哥哥很谈得来。看起来挺有气质的。	She gets along well with her brother and looks pretty cultivated.	book::L05 L05::dialogue grammar
+A跟B谈得来	A gēn B tándelái	be able to talk to; get along well with	她跟哥哥很谈得来。	She gets along well with her brother.	book::L05 L05::dialogue grammar
+Adj + 死了	Adj + sǐ le	intensifies an adjective with an unpleasant connotation ("... to death")	我真的急死了。	I am really worried to death.	book::L05 L05::dialogue grammar
+低于 / 高于	dīyú / gāoyú	lower/higher than ...; 于 follows an adjective to indicate comparison, with the same meaning as 比	成绩不可以低于A。	Grades cannot be lower than A.	book::L05 L05::essay grammar
+A没有B(那么)adj	A méiyǒu B (nàme) adj	A is not as adj. as B	我的父母没有蔡美儿那么严格。	My parents are not as strict as Amy Chua.	book::L05 L05::essay grammar
+拿A跟B做比较	ná A gēn B zuò bǐjiào	compare A with B	父母喜欢拿我跟"别人家的孩子"做比较。	My parents like to compare me with "other people's kids".	book::L05 L05::essay grammar
+一 + action 1 就 + action 2	yī ... jiù ...	as soon as / once / whenever action 1 happens, action 2 happens	王阿姨的儿子一毕业就拿到了年薪10万美金的工作。	Upon graduation, Aunt Wang's son got a job with an annual salary of 100,000 U.S. dollars.	book::L05 L05::essay grammar
+为 …… 做出(的)牺牲	wèi ... zuòchū (de) xīshēng	make sacrifice for ... / the sacrifice made for ...	另一些压力来自于父母为我的教育做出的牺牲。	Other pressures came from the sacrifices my parents made for my education.	book::L05 L05::essay grammar
+在 …… 压力下	zài ... yālì xià	under the pressure of ...	在这些压力下,父母的关心和爱却成了我的负担。	Under these pressures, the care and love of my parents became my burden.	book::L05 L05::essay grammar

@@ -1,0 +1,15 @@
+#separator:tab
+#html:false
+#columns:Pattern	Pinyin	Usage	ExampleZh	ExampleEn	Tags
+#tags column:6
+照……(的)说法	zhào . . . (de) shuōfǎ	according to someone's statement/ways of saying a thing	照官方说法,现在有十大方言。	According to the official statement, there are now ten regional varieties of Chinese.	book::L04 L04::dialogue grammar
+无论 + question, 都/还……	wúlùn . . . dōu/hái . . .	no matter . . . (what follows 无论 should be a question, not a statement)	南方方言和北方方言,无论是发音、词汇还是语法都不一样。	No matter if it is pronunciation, vocabulary, or grammar, the language varieties in the southern regions and the northern regions are different.	book::L04 L04::dialogue grammar
+根本(不/没有)	gēnběn (bù/méiyǒu)	not at all; absolutely not (cannot be followed by an affirmative statement)	如果他和妈妈两个人都用方言说话,就会像“鸡同鸭讲”,根本听不懂。	If he and his mother both spoke in language varieties, they would be like how 'a chicken talks to a duck', and they would not understand each other at all.	book::L04 L04::dialogue grammar
+V了半天	V le bàntiān	to indicate that the action lasted for a long time, often followed by 也/都/还没有 + resultative verb	一个东北人听到后马上跳到河里帮她找,可是找了半天都没有找到孩子。	After hearing that, a northeasterner immediately jumped into the river to help her but still could not find the child after searching for a long time.	book::L04 L04::dialogue grammar
+把……V成……	bǎ . . . V chéng . . .	(mistakenly) read/see/regard/call something as something else	四川人都把“鞋子”读成“孩子”。	Sichuan people pronounce 'xiezi' as 'haizi'.	book::L04 L04::dialogue grammar
+那该多adj.啊	nà gāi duō adj. a	Then how adjective it would be	如果没有了方言,那该多无聊啊!	If there were no language varieties, then how boring it would be!	book::L04 L04::dialogue grammar
+对 + something + 有兴趣/感兴趣	duì . . . yǒu xìngqù / gǎn xìngqù	be interested in something (when used with a person, it means interested as a study subject, not romantically)	他对语言学也很有兴趣。	He is interested in linguistics.	book::L04 L04::essay grammar
+不但……而且……	bùdàn . . . érqiě . . .	Not only . . . but also . . . (both parts in the same realm; the focus is the second part)	汉语拼音不但提高了中国人的读写能力,而且让外国人学习中文变得容易多了。	The Pinyin system not only improves Chinese people's reading and writing abilities but also makes learning Chinese for foreigners much easier.	book::L04 L04::essay grammar
+另外 + sentence	lìngwài . . .	in addition . . . (often placed at the beginning of the sentence, which often also has 也)	另外,拼音也方便了人们在电脑或手机上打字。	Besides, Pinyin also makes typing on computers and cell phones more convenient.	book::L04 L04::essay grammar
+V + 过	V guò	have done something before (focuses on past experience that impacts current experience)	你听过周有光这个人吗?	Have you heard of this person, Zhou Youguang?	book::L04 L04::essay grammar
+却 + V	què + V	however (indicates a surprise element; 却 goes before the verb, not at the beginning of the sentence)	他原来是银行家。50岁以后,他却成了一位语言文字学家。	He originally was a banker. After turning 50 years old, he, however, has become a linguist.	book::L04 L04::essay grammar
