@@ -80,13 +80,16 @@ strokes 笔画, stroke order 笔顺, and 25 core radicals 部首 illustrated wit
 recur in Unit 1). The authors recommend drilling this **before** Lesson 1 — do not skip it even if
 you can already speak. It makes every later character "click" instead of memorized blind.
 
-> **Anki:** Import `anki/foundation_radicals.tsv` now. Add ~8 radical cards/day across these days.
+> **Anki:** The Foundation cards are already in the deck. Study the **`1 Foundation (Pinyin & Rules)`**
+> subdeck during Days 1–4 (38 cards covering initials, finals, tones, tone-change & spelling rules —
+> tagged `day::01`…`day::04`), and the **`1 Foundation (Radicals)`** subdeck on Days 5–7 (25 cards).
+> Set each subdeck to ~10 new cards/day when you reach it.
 
 | Day | Focus | Do this |
 |---|---|---|
-| **1** | Pinyin: initials 声母 | Read 拼音篇 (p.1). Drill all initials aloud. Do the book's 拼音练习. |
-| **2** | Pinyin: finals 韵母 + tones | Drill finals and the four tones + neutral tone. Practice minimal pairs (mā/má/mǎ/mà). |
-| **3** | Pinyin: combination rules | Spelling rules (j/q/x + ü→u, w/y, tone placement). Finish 拼音练习. |
+| **1** | Pinyin: initials 声母 | Read 拼音篇 (p.1). Drill all initials aloud. Do the book's 拼音练习. Study Anki `day::01` cards (the 21 initials, aspiration, x/s/sh). |
+| **2** | Pinyin: finals 韵母 + tones | Drill finals and the four tones + neutral tone. Practice minimal pairs (mā/má/mǎ/mà). Study Anki `day::02` cards. |
+| **3** | Pinyin: combination rules | Spelling rules (j/q/x + ü→u, w/y, tone placement, 不/一 tone changes). Finish 拼音练习. Study Anki `day::03` cards. |
 | **4** | Strokes 笔画 & stroke order 笔顺 | Read 汉字笔画和笔顺 (p.7). Learn the 8 basic strokes and the rules of stroke order. Hand-write 5 characters following correct order. |
 | **5** | Radicals 部首 (set 1) | Radicals 1–13 (人/女/言/辶/口/日/心/木/糸/水/手/刀/艹). For each, note meaning + 2 example characters. Add cards. |
 | **6** | Radicals 部首 (set 2) | Radicals 14–25 (犭/土/广/阝/囗/足/寸/走/夕/月/父/竹). Add cards. |

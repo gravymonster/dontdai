@@ -1,0 +1,41 @@
+#separator:tab
+#html:false
+#columns:Front	Back	Tags
+The 21 Mandarin initials (声母) group by where in the mouth they're made. Name the 4 LIP (labial) initials.	b　p　m　f	book::foundation pinyin day::01 topic::initials
+Name the 4 TONGUE-TIP (alveolar) initials.	d　t　n　l	book::foundation pinyin day::01 topic::initials
+Name the 3 BACK-OF-TONGUE (velar) initials.	g　k　h	book::foundation pinyin day::01 topic::initials
+Name the 3 PALATAL initials (tongue flat & forward, lips spread; only before i/ü sounds).	j　q　x	book::foundation pinyin day::01 topic::initials
+Name the 3 FLAT-TONGUE sibilant (dental) initials.	z　c　s	book::foundation pinyin day::01 topic::initials
+Name the 4 RETROFLEX initials (tongue curled up & back).	zh　ch　sh　r	book::foundation pinyin day::01 topic::initials
+Which 6 initials are ASPIRATED (released with a puff of air)?	p, t, k, q, c, ch (their unaspirated partners: b, d, g, j, z, zh)	book::foundation pinyin day::01 topic::initials
+Give the unaspirated↔aspirated pairs (no puff ↔ puff).	b↔p, d↔t, g↔k, j↔q, z↔c, zh↔ch	book::foundation pinyin day::01 topic::initials
+What "helper vowel" do you add to say z/c/s and zh/ch/sh/r by themselves?	A buzzing -i (e.g. zi, ci, si, zhi, chi, shi, ri) — NOT the "ee" sound	book::foundation pinyin day::01 topic::initials
+Tongue position: contrast x vs s vs sh.	x = palatal (flat, forward, smiling); s = flat dental tip; sh = retroflex (tip curled back)	book::foundation pinyin day::01 topic::initials
+j, q, x can ONLY be followed by which kind of vowel?	i and ü sounds (e.g. ji, qu, xian) — never a, o, u, e directly	book::foundation pinyin day::01 topic::initials
+Why are b(o), d(e), g(e), j(i), z(i), zh(i) written with a vowel in parentheses in the book?	The vowel is only a helper to pronounce the consonant aloud; the initial itself is just the consonant	book::foundation pinyin day::01 topic::initials
+List the 6 SIMPLE (single-vowel) finals 韵母.	a　o　e　i　u　ü	book::foundation pinyin day::02 topic::finals
+Compound finals in the "a" group?	a, ai, ao, an, ang	book::foundation pinyin day::02 topic::finals
+Compound finals in the "o" group?	o, ou, ong	book::foundation pinyin day::02 topic::finals
+Compound finals in the "e" group?	e, ei, en, eng, er	book::foundation pinyin day::02 topic::finals
+Compound finals beginning with "i"?	ia, iao, ian, iang, ie, iu (iou), in, ing, iong	book::foundation pinyin day::02 topic::finals
+Compound finals beginning with "u"?	ua, uo, uai, ui (uei), un (uen), uan, uang, ueng	book::foundation pinyin day::02 topic::finals
+Compound finals beginning with "ü"?	üe, üan, ün	book::foundation pinyin day::02 topic::finals
+Name the four tones (+ neutral) and their contour.	1st ˉ high-level; 2nd ˊ rising; 3rd ˇ dip-down; 4th ˋ falling; plus neutral (no tone, light)	book::foundation pinyin day::02 topic::tones
+Say "ma" in all four tones with meanings.	mā 妈 mother; má 麻 hemp; mǎ 马 horse; mà 骂 to scold	book::foundation pinyin day::02 topic::tones
+Tone change: when TWO 3rd tones come together, the FIRST becomes what?	2nd tone. e.g. 你好 nǐhǎo → pronounced níhǎo	book::foundation pinyin day::02 topic::tone-change
+Tone change: a 3rd tone BEFORE a 1st/2nd/4th tone is pronounced how?	As a HALF 3rd tone — it falls and does NOT rise back up	book::foundation pinyin day::02 topic::tone-change
+Tone change of 不 (bù) before a 4th tone?	Becomes 2nd tone: bú. e.g. 不去 búqù	book::foundation pinyin day::03 topic::tone-change
+What tone is 不 before 1st/2nd/3rd tones, or standing alone?	Stays 4th tone: bù. e.g. 不吃 bùchī, 不难 bùnán, 不好 bùhǎo	book::foundation pinyin day::03 topic::tone-change
+Tone change of 一 (yī) before a 1st/2nd/3rd tone?	Becomes 4th tone: yì. e.g. 一天 yìtiān, 一年 yìnián, 一起 yìqǐ	book::foundation pinyin day::03 topic::tone-change
+Tone change of 一 (yī) before a 4th tone?	Becomes 2nd tone: yí. e.g. 一个 yígè	book::foundation pinyin day::03 topic::tone-change
+What tone is 一 when standing alone or counting?	1st tone: yī	book::foundation pinyin day::03 topic::tone-change
+Tone-mark placement: which vowel gets the mark, by priority order?	Priority a, o, e, i, u, ü — mark the first one present. If i and u are together, mark the LAST one (diū, huī)	book::foundation pinyin day::03 topic::spelling
+Spelling rule: when ü follows j, q, x, how is it written?	As plain u → ju, qu, xu (the umlaut is dropped)	book::foundation pinyin day::03 topic::spelling
+No-initial syllables i / in / ing are written how?	yi, yin, ying (add y). Other i-syllables: replace i with y (ian → yan)	book::foundation pinyin day::03 topic::spelling
+No-initial ü / üe / üan / ün are written how?	yu, yue, yuan, yun (add y, drop the umlaut)	book::foundation pinyin day::03 topic::spelling
+No-initial "u" is written how? And other u-syllables?	u → wu. Other u-syllables: replace u with w (uan → wan)	book::foundation pinyin day::03 topic::spelling
+When a syllable starting with a/o/e follows another syllable, what do you insert?	An apostrophe between the two syllables. e.g. zhēn'ài 真爱 (true love)	book::foundation pinyin day::03 topic::spelling
+Finals iou, uei, uen — how are they written after an initial?	Drop the middle vowel → iu, ui, un. e.g. 旧 jiù, 水 shuǐ, 困 kùn	book::foundation pinyin day::03 topic::spelling
+How is a retroflex (erhua 儿) ending marked in pinyin?	Add r at the end of the syllable. e.g. 饭馆儿 fànguǎnr	book::foundation pinyin day::03 topic::spelling
+When is the first letter of pinyin capitalized?	For proper nouns and at the start of a sentence. e.g. 美国 Měiguó; 我是美国人。Wǒ shì Měiguó rén.	book::foundation pinyin day::03 topic::spelling
+Basic stroke-order rules for writing characters (笔顺)?	Top before bottom; left before right; horizontal before crossing vertical; outside before inside; close the box last	book::foundation pinyin day::04 topic::strokes

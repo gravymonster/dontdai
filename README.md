@@ -26,6 +26,8 @@ Anki spaced-repetition decks covering the book's vocabulary, grammar patterns, a
 | **`spaced-repetition-guide.md`** | Step-by-step Anki setup (note types, import, deck options, FSRS) and your daily review loop. |
 | **`anki/vocabulary_all.tsv`** | All **437** vocabulary cards (simplified · traditional · pinyin · part-of-speech · English), tagged by lesson and part. |
 | **`anki/grammar_patterns_all.tsv`** | All **85** grammar/sentence-pattern cards, each with a usage note and a real example from the book. |
+| **`anki/传承中文.apkg`** | **Ready-to-import** deck — double-click and all cards + card templates appear (no manual setup). |
+| **`anki/foundation_pinyin.tsv`** | **38** Introduction Q/A cards (initials, finals, tones, tone-change & spelling rules), tagged by day for Days 1–4. |
 | **`anki/foundation_radicals.tsv`** | **25** character-radical cards (radical · pinyin · meaning · example characters). |
 | **`anki/by-lesson/`** | The same vocab + grammar split into per-lesson files (`L01_*` … `L09_*`) for drip-feeding one lesson at a time. |
 
