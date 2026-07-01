@@ -22,7 +22,7 @@ Anki spaced-repetition decks covering the book's vocabulary, grammar patterns, a
 
 | File / folder | What it is |
 |---|---|
-| **`vocabulary-plan.md`** | **Vocabulary-first** day-by-day track: memorize all **437 words + 85 phrases** via Anki in ~47 days (~15 new words/day). Best if your priority is the vocabulary. |
+| **`vocabulary-plan.md`** | **Vocabulary-first** day-by-day track: memorize all **437 words + 85 phrases** via Anki in ~40 days (~20 new words/day). Best if your priority is the vocabulary. |
 | **`lesson-plan.md`** | The full read-along course: 79 days across Foundation + 10 lessons, with reading pages, objectives, grammar, daily recall tasks, and built-in review days. |
 | **`spaced-repetition-guide.md`** | Step-by-step Anki setup (note types, import, deck options, FSRS) and your daily review loop. |
 | **`anki/vocabulary_all.tsv`** | All **437** vocabulary cards (simplified · traditional · pinyin · part-of-speech · English), tagged by lesson and part. |
