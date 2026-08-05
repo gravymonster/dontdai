@@ -2,6 +2,12 @@
 
 Static, no-PHI prototype of a patient-facing landing page and six-step secondary-consult flow.
 
+## Review package
+
+- `docs/` — complete 27-page blueprint and exact two-page executive brief, in PDF and Markdown.
+- `research/` — linked source catalog and improved master prompt.
+- `ads/` — three 4:5 review boards plus the creative and policy brief. The boards are manual brand-matched fallbacks; the Goose Ads connector did not return results during generation attempts.
+
 ## Run locally
 
 From this directory:
